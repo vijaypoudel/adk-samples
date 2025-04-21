@@ -1,6 +1,6 @@
 # Sample Agents
 
-This folder contains agent samples for the [Agent Development Kit](https://github.com/google/adk-python) (ADK). 
+This folder contains agent samples for the [Agent Development Kit](https://github.com/google/adk-python) (ADK) - forked by Vijay Poudel from Google agnet Sample.
 
 Each folder in this directory contains a different agent sample.
 
